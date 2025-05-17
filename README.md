@@ -11,7 +11,7 @@ An application for gamers to reunite !!! . GameVerse allows games to compete wit
 
 Cloning Repository
 ```bash
-  git clone https://github.com/dharshini2284/GameVerse.git
+  git clone https://github.com/sharmila-as/GameVerse.git
 ```
 
 Frontend : The app will start on localhost:3000
